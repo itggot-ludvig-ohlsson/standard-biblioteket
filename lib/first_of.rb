@@ -4,11 +4,11 @@
 #
 # Examples
 #
-#   sum_to(3)
-#   # => 6
+#   first_of([1, 2, 3])
+#   # => 1
 #   
-#   sum_to(5)
-#   # => 15
+#   first_of([1337, 2, -1])
+#   # => 1337
 #
 # Returns the first item in the Array.
 def first_of(arr)
