@@ -8,7 +8,7 @@
 #   append([1, 2, 3], 4)
 #   # => [1, 2, 3, 4]
 #
-# Returns the sum of all numbers from 0 to the Integer.
+# Returns a new Array with the appended item.
 def append(arr, num)
     return arr << num
 end
