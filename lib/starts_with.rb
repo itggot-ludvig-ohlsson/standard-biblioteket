@@ -8,7 +8,7 @@
 #   starts_with("hej hopp", "h")
 #   # => true
 #
-#   start_with("Hello World", "k")
+#   starts_with("Hello World", "k")
 #   # => false
 #
 # Returns if the string starts with the character or not.
