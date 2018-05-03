@@ -4,7 +4,7 @@
 #
 # Examples
 #
-#   puts sum([1, 2, 3, 4, 5])
+#   sum([1, 2, 3, 4, 5])
 #   # => 15
 #
 # Returns the sum of all the integers in the array.
